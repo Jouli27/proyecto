@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653767019 source:c:\users\sendero\onedrive\documentos\algoritmo computacional\pryecto\pryecto1.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
