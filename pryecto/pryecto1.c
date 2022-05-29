@@ -21,6 +21,7 @@ int termina=1;
 
 iraxy(30,1);
     printf("Juego de memoria Ulises Sanchez Rosas LIA A2");
+    printf("Hola mundo");
     iraxy(15,4);
  printf("Reto");
 
